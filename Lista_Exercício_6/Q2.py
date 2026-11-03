@@ -1,4 +1,4 @@
-dep_inicial = float(input("Qual o valor do depóstio inicial, em reais? "))
+dep_inicial = float(input("Qual o valor do depósito inicial, em reais? "))
 juros = float(input("Qual a taxa de juros, em decimal? "))
 juros = juros / 100 + 1
 

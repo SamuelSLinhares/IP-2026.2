@@ -14,4 +14,3 @@ elif media > 25 and media <= 60:
     print("A turma é adulta!")
 else:
     print("A turma é idosa!")
-
